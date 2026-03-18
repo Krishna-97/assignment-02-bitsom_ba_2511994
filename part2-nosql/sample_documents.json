@@ -1,0 +1,42 @@
+
+[
+  {
+    "product_id": "EL-1",
+    "name": "Quantum X1 Pro Laptop",
+    "category": "Electronics",
+    "Brand" : "Dell",
+    "price": 85000,
+    "specs": {
+      "warranty_months": 24,
+      "voltage": "110V-240V",
+      "ram": "16GB",
+      "storage": ["512GB SSD", "1TB HDD"]
+    },
+    "stock": 15
+  },
+  {
+    "product_id": "CL-2",
+    "name": "Organic Cotton Slim Fit Shirt",
+    "category": "Clothing",
+    "price": 1800,
+    "attributes": {
+      "size": ["M", "L", "XL"],
+      "color": "Navy Blue",
+      "material": "100% Cotton"
+    },
+    "care_instructions": "Machine wash cold"
+  },
+  {
+    "product_id": "GR-303",
+    "name": "Premium Greek Yogurt",
+    "category": "Groceries",
+    "price": 120,
+    "expiry_date": "2024-11-15T00:00:00Z",
+    "nutritional_info": {
+      "calories": 150,
+      "protein_g": 12,
+      "fat_g": 5
+    },
+    "is_perishable": true
+  }
+]
