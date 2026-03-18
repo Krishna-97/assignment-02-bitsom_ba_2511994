@@ -1,3 +1,4 @@
+-- 1.3 — SQL Queries:
 use my_demo_db;
 show tables;
 -- Q1: List all customers from Mumbai along with their total order value

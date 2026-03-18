@@ -1,3 +1,4 @@
+1.1 — Anomaly Analysis :
 ## Anomaly Analysis:
 - ***Insert Anomaly:*** Insert anomaly occurs when we add new data to only field of the table without adding respective data to it's related which araise into data redundancy and poor table design. _For Eg:_ In order_flat table when try new **"Customer : Krishna as C009**, then have provide it's respective customer details like customer_email,customer_city.Then If new customer places a order then respective details like order_id,product_id,product_name,category,unit_price,quantity,order_date,sales_rep_id,sales_rep_name,	sales_rep_email and office_address.If any one fields is missing it would directly affect the table design and could be data redundancy.
 
